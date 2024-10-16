@@ -65,7 +65,8 @@ npm run full-test
 ├── package.json            # Project metadata and dependencies
 └── .eslintrc.js            # ESLint configuration
 
-## Tasks
+Tasks
+
 0. ClassRoom
 Implement a class ClassRoom that accepts an attribute maxStudentsSize and assigns it to _maxStudentsSize.
 
